@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Tejedor</a></h1>
 <h3 align="center">A passionate web Frond-End developer from Bogotá | Colombia 🇨🇴</h3>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/github/followers/{AlexTejedorDev}.svg?style=social&label=Follow&maxAge=2592000"></a>
+  <a href="#"><img src="https://img.shields.io/github/followers/AlexanderTejedor.svg?style=social&label=Follow&maxAge=2592000"></a>
 </p>
 <br>
 <p align="center">
