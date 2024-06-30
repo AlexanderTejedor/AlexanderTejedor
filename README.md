@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexander Tejedor</a></h1>
 <h3 align="center">A passionate web Frond-End developer from Bogotá | Colombia 🇨🇴</h3>
-
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/github/followers/{AlexTejedorDev}.svg?style=social&label=Follow&maxAge=2592000"></a>
+</p>
+<br>
 <p align="center">
   <img src="https://images.alphacoders.com/128/thumb-1920-1289709.jpg" width="1040" height="470"/>
 </p>
@@ -20,5 +23,7 @@
 
 
 ## 🐱 My Github stats:
-
+![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
