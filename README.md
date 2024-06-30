@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web Frond-End developer from Bogotá | Colombia 🇨🇴</h3>
 
 <p align="center">
-  <img src="https://images3.alphacoders.com/136/thumb-1920-1364877.png" width="1040" height="350"/>
+  <img src="https://images5.alphacoders.com/128/thumb-1920-1289706.jpg" width="1040" height="500"/>
 </p>
 
 # 💫 About Me:
