@@ -21,9 +21,35 @@
 - ⚡ **Fun Facts** : 🍕 :camera: 🥋 🏐 :space_invader:
 - 📫 Reach out to me at: <a href="atromero.98@gmail.com">atromero.98@gmail.com</a>
 
+### 👨‍💻 Programming Languages
+
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
+  </a>
+</p>
+
+### 🛠️ Tools
+
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap,wordpress,git,figma" />
+  </a>
+</p>
 
 ## 🐱 My Github stats:
-![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+  <td width="50%" align="center">
+    <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=AlexanderTejedor&theme=dark&show_icons=true&count_private=true" />
+    <br></br>
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderTejedor&theme=dark&hide_border=false" /> 
+  </td>
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlexanderTejedor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  </td>
+</tr>
+</table>
+</p>
