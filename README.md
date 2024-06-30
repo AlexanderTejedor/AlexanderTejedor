@@ -76,5 +76,5 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif">
+  <img src="https://media1.tenor.com/m/odhNQsiRTsAAAAAC/cats-1.gif">
 </div>
