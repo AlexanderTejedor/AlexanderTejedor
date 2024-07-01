@@ -21,7 +21,6 @@
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 🏡'Lives in **Bogotá | Colombia**
 - ⚡ **Fun Facts** : 🍕 :camera: 🥋 🏐 :space_invader:
-- 📫 Reach out to me at: <a href="atromero.98@gmail.com">atromero.98@gmail.com</a>
 
 ### 👨‍💻 Programming Languages
 
