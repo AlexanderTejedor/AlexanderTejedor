@@ -8,6 +8,8 @@
 
 # 💫 About Me:
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 - 🔭: I'm currently working on many small JS projects.
 - :green_heart: In constant learning with **Platzi** at [Platzi.com](https://platzi.com/home/)
 - 🎓 Student for Software Engineering at [University Corporation God's Minute](https://www.uniminuto.edu/)
