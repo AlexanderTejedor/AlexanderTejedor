@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://images.alphacoders.com/128/thumb-1920-1289709.jpg" width="1040" height="470"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Alexander Tejedor R</a></h1>
 <h3 align="center">A passionate web Frond-End developer from Bogotá | Colombia 🇨🇴</h3>
 <p align="center">
