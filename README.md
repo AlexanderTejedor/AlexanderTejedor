@@ -61,11 +61,11 @@
 </p>
 
 ## 🙌 Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/A.lexdev)
+[![Facebook](https://www.facebook.com/profile.php?id=61576358766365)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.lexDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-romero-0163b6212/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Alexand59894016)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AlexDev) 
+[![YouTube](https://www.youtube.com/@AlexDev-e4p) 
 <br>
 <div align="center">
   <img src="https://media1.tenor.com/m/odhNQsiRTsAAAAAC/cats-1.gif">
