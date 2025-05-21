@@ -39,8 +39,9 @@
 ## 🐱 My Github stats:
 <p align="center">
 <a href="https://github.com/AlexanderTejedor">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexanderTejedor&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexanderTejedor&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexanderTejedor&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=AlexanderTejedor&theme=blue-green&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderTejedor&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </a>
 </p>
 
@@ -49,19 +50,22 @@
     alt="example" />
 </p>
 
-## 🙌 Connect with me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AlexanderTejedor&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  <a href="https://github.com/AlexanderTejedor" target="_blank">
-    <img src=	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="mailto:atromero.98@gmail.com" target="_blank">
-    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/alexander-romero-0163b6212/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-</div>
+### ✍️ Random Dev Quote and Top Contributed Repo
+
+<p align="center">
+  <img height="200em" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvboxe"/>
+  <img height="200em" src="https://github-contributor-stats.vercel.app/api?username=AlexanderTejedor&limit=5&theme=blue-green&combine_all_yearly_contributions=true"/>
+</p>
+
+## 🙌 Connect with me
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/A.lexdev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.lexDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-romero-0163b6212/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Alexand59894016)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AlexDev) 
 <br>
 <div align="center">
   <img src="https://media1.tenor.com/m/odhNQsiRTsAAAAAC/cats-1.gif">
